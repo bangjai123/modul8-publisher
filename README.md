@@ -9,5 +9,6 @@
 ![image](https://github.com/bangjai123/modul8-publisher/assets/120235144/2c907132-ee16-4880-9810-a0e32da8e229)
 
 ## Sending and processing event.
-![image](https://github.com/bangjai123/modul8-publisher/assets/120235144/0bbc6256-f02e-4149-8a7e-b75d7fa259aa)
+![image](https://github.com/bangjai123/modul8-publisher/assets/120235144/f03d2487-5f73-472a-abf6-3220cbdc1dd3)
+
 
