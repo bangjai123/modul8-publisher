@@ -14,5 +14,3 @@
 ## Monitoring chart based on publisher.
 ![image](https://github.com/bangjai123/modul8-publisher/assets/120235144/94094dce-3804-4fd3-ac87-01a16a3378eb)
 
-## Simulation slow subscriber
-![image](https://github.com/bangjai123/modul8-publisher/assets/120235144/2827944a-39d4-42c6-9bad-a87533e38fee)
