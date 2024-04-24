@@ -15,3 +15,4 @@ Pada gambar di atas, dapat kita lihat bahwa publisher melakukan pengiriman event
 ## Monitoring chart based on publisher.
 ![image](https://github.com/bangjai123/modul8-publisher/assets/120235144/94094dce-3804-4fd3-ac87-01a16a3378eb)
 
+Pada gambar di atas terlihat terdapat dua _spike_ pada grafik _message rates_. Hal ini menggambarkan dua kali _messagge_ yang disebabkan _event_ terjadi. Hal ini dapat terjadi karena saya melakukan perintah cargo run, yang berfungsi untuk menjalankan program, sebanyak dua kali pada _publisher_. Hal ini menyebabkan _event_ terjadi sebanyak dua kali.
